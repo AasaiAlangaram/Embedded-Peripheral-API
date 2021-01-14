@@ -20,3 +20,4 @@ void Dio_Init( const Dio_ConfigType *config);
 References:
 
 * [Demystifying Microcontroller GPIO Settings](https://embeddedartistry.com/blog/2018/06/04/demystifying-microcontroller-gpio-settings/)
+* [STM32 GPIO Settings](https://electronics.stackexchange.com/questions/156930/stm32-understanding-gpio-settings)
