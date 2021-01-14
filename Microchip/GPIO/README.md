@@ -17,6 +17,6 @@ void Dio_Init( const Dio_ConfigType *config);
 `
 
 
-References:\
+References:
 
-[Demystifying Microcontroller GPIO Settings](https://embeddedartistry.com/blog/2018/06/04/demystifying-microcontroller-gpio-settings/)
+* [Demystifying Microcontroller GPIO Settings](https://embeddedartistry.com/blog/2018/06/04/demystifying-microcontroller-gpio-settings/)
